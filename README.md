@@ -1,1 +1,43 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End
+
+## Description
+
+An express.js API configured to interact with a MySQL database using Sequelize.
+
+## Table of Contents
+
+* [License](#license)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [Contributions](#contributions)
+* [Tests](#tests)
+
+
+## License
+    
+[![license badge](https://img.shields.io/static/v1?label=license&message=MIT&color=important)](https://opensource.org/licenses/MIT)
+
+## Installation
+
+Clone it or download a zip file.
+
+## Usage
+
+Open it in your code editor, run `npm i` to install dependencies, use MySQL CLI to create the schema, and run `npm start` to start the application's server. Use Insomnia Core or a similar program to test CRUD operations.
+
+## Credits
+
+Made by Rachel Wagschal
+
+## Contributions
+
+Fork it or open an issue on the original repo.
+
+## Tests
+
+Use Insomnia Core to test CRUD operations.
+
+## Contact
+
+Questions, comments, or conerns? Find me on [GitHub](https://github.com/rawagschal/) or [send me an email](mailto:rawagschal@gmail.com).
