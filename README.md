@@ -12,6 +12,7 @@ An express.js API configured to interact with a MySQL database using Sequelize.
 * [Credits](#credits)
 * [Contributions](#contributions)
 * [Tests](#tests)
+* [Walkthrough](#walkthrough)
 
 
 ## License
@@ -24,7 +25,7 @@ Clone it or download a zip file.
 
 ## Usage
 
-Open it in your code editor, run `npm i` to install dependencies, use MySQL CLI to create the schema, and run `npm start` to start the application's server. Use Insomnia Core or a similar program to test CRUD operations.
+Open it in your code editor, run `npm i` to install dependencies, use MySQL CLI to create and connect to development database, and run `npm start` to start the application's server. Use Insomnia Core or a similar program to test CRUD operations.
 
 ## Credits
 
@@ -37,6 +38,10 @@ Fork it or open an issue on the original repo.
 ## Tests
 
 Use Insomnia Core to test CRUD operations.
+
+## Walkthrough
+
+[Click here](https://youtu.be/LXC9tme4Cf4) for a walkthrough of how to test this application.
 
 ## Contact
 
